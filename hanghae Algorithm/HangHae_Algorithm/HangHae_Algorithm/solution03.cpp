@@ -20,5 +20,4 @@ int main()
 		cout << s[idx];
 
 	return 0;
-
 }

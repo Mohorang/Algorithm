@@ -16,7 +16,6 @@ int main()
 
 	cout << sum / size;
 	return 0;
-
 }
 /*
 #include <string>
