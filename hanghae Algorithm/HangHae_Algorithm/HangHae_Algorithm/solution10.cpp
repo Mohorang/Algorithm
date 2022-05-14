@@ -32,7 +32,6 @@ int main()
 	arr2.push_back(vec1);
 	arr2.push_back(vec2);
 
-
 	for (int i = 0; i < arr1.size(); i++)
 	{
 		vector<int>vec3;
